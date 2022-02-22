@@ -372,7 +372,7 @@ var APP_DATA = {
           "yaw": 1.612088436372483,
           "pitch": 0.03902376801485019,
           "rotation": 0,
-          "target": "10-entrada-de-atrs"
+          "target": "10-entrada-de-alumnos"
         },
         {
           "yaw": -1.7290960160423303,
@@ -466,8 +466,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "10-entrada-de-atrs",
-      "name": "Entrada de atrás",
+      "id": "10-entrada-de-alumnos",
+      "name": "Entrada de alumnos",
       "levels": [
         {
           "tileSize": 256,
