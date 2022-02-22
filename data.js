@@ -147,6 +147,12 @@ var APP_DATA = {
           "pitch": 0.1821640694407769,
           "rotation": 0,
           "target": "4-pasillo-de-directivos"
+        },
+        {
+          "yaw": 1.642549413174999,
+          "pitch": 0.21373654126172426,
+          "rotation": 0,
+          "target": "12-pasillo-de-computacin"
         }
       ],
       "infoHotspots": []
@@ -939,7 +945,7 @@ var APP_DATA = {
           "yaw": 3.1085086708473373,
           "pitch": 0.07100406771624179,
           "rotation": 0,
-          "target": "22-saln-parroquial---altar"
+          "target": "22-templo---altar"
         },
         {
           "yaw": 0.37949137683458467,
@@ -995,8 +1001,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "22-saln-parroquial---altar",
-      "name": "Salón Parroquial - Altar",
+      "id": "22-templo---altar",
+      "name": "Templo - Altar",
       "levels": [
         {
           "tileSize": 256,
@@ -1077,7 +1083,7 @@ var APP_DATA = {
           "yaw": 0.05792825556327941,
           "pitch": 0.03841957639165017,
           "rotation": 0,
-          "target": "22-saln-parroquial---altar"
+          "target": "22-templo---altar"
         }
       ],
       "infoHotspots": []
@@ -1115,7 +1121,7 @@ var APP_DATA = {
           "yaw": 0.7991320089181642,
           "pitch": 0.10361592423131327,
           "rotation": 0,
-          "target": "22-saln-parroquial---altar"
+          "target": "22-templo---altar"
         }
       ],
       "infoHotspots": []
